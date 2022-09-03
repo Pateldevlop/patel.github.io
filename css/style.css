@@ -614,7 +614,7 @@ textarea{
         grid-template-columns: 1fr;
     }
     .btn-style{
-        padding: 5px 8px;
+        padding: 5px 5px;
     }   
     .btn{
         margin: 10px;
